@@ -15,4 +15,4 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ####Product
-<img>
+<img src"https://github.com/pnhat1112/ncctest/blob/main/public/img/product.png">
